@@ -11,7 +11,7 @@ bot = commands.Bot(command_prefix='%', intents=intents)
 url1 = "https://climate-change-live402.p.rapidapi.com/news/nyp"
 
 headers1 = {
-	"X-RapidAPI-Key": "SIGN-UP-FOR-KEY",
+	"X-RapidAPI-Key": "b923da901b90fd12f398735ba01dcf2653aa988b",
 	"X-RapidAPI-Host": "climate-change-live402.p.rapidapi.com"
 }
 ##########################################################################
